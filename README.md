@@ -1,9 +1,12 @@
-##GifExpertApp
+## GifExpertApp
+
 Es una aplicación con React js, usando la api de GIPHY [https://developers.giphy.com](https://developers.giphy.com)
 
 Link de prueba de la app GIPHY [https://maliciacanv.github.io/Gif-Expert-App/](https://maliciacanv.github.io/Gif-Expert-App/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<br/>
 
 ## Available Scripts
 
